@@ -50,7 +50,7 @@ You can use any library/framework/plugin you want.
 
 Please use some template library (http://handlebarsjs.com/, http://mustache.github.io/, ...).
 
-The application must be single page and JS-based using AngularJS (1.0 is fine if not familiar with 2.0). That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
+The application must be single page and JS-based using AngularJS (1.x is fine if not familiar with 2.x) or ReactJS. That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
 
 If you can display discounts for pizzas it's a plus.
 
