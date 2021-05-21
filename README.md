@@ -6,9 +6,9 @@ To better assess a candidates development skills, we would like to provide the f
 Prerequisites
 -------------
 
-* [Git](http://git-scm.com/)
-* [npm](https://www.npmjs.org/)
-* [Bower](http://bower.io/)
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/)
+* [npm](https://www.npmjs.com/)
 
 Installation
 ------------
@@ -48,9 +48,9 @@ There will be a button to confirm the order. An ajax call will be performed to `
 
 You can use any library/framework/plugin you want.
 
-Please use some template library (http://handlebarsjs.com/, http://mustache.github.io/, ...).
+Please use some template library (http://handlebarsjs.com/, http://mustache.github.io/, ...) or a template engine from the framework.
 
-The application must be single page and JS-based using AngularJS (1.x is fine if not familiar with 2.x) or ReactJS. That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
+The application must be single page and JS-based using Angular (1.x is fine if not familiar with >= 2.x) or ReactJS. That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
 
 If you can display discounts for pizzas it's a plus.
 
@@ -66,6 +66,6 @@ Our goal is to find answers to those questions:
 
 Due to the limited time consider the followings:
 
-* It is NOT important to have a fully functional application at the end.
-* We'll develop just for the latest version of Google Chrome.
+* It is NOT important to have a fully functional application at the end
+* We'll develop just for the latest version of Google Chrome (Chromium)
 
