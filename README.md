@@ -46,9 +46,7 @@ When the user chooses something from the list the order summary will update dyna
 
 There will be a button to confirm the order. An ajax call will be performed to `server/order.json` and the result will be displayed as a message like this: "Your order will be delivered in x minutes".
 
-You can use any library/framework/plugin you want.
-
-Please use some template library (http://handlebarsjs.com/, http://mustache.github.io/, ...) or a template engine from the framework.
+Please use React or Angular.
 
 The application must be single page and JS-based using Angular (1.x is fine if not familiar with >= 2.x) or ReactJS. That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
 
